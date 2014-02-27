@@ -1,1 +1,1 @@
-print "M35 is a galaxy"
+print "M35 is an open cluster"
